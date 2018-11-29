@@ -1,0 +1,3 @@
+git stash (Guardando cambios temporalmente)
+
+¿Qué tal si aún no estás listo para confirmar ningún cambio? Stash es un estado que tenemos como intermedio. Para esto debemos ir a alguna de nuestras ramas y usando el comando git stash que nos permite hacer cambios, pero no confirmarlos.
