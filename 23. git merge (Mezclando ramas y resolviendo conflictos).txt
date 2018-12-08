@@ -1,4 +1,0 @@
-git merge (Mezclando ramas y resolviendo conflictos)
-
-En este material nos vamos a concentrar en mezclar ramas y resolver conflictos. Lo primero que tengo que hacer para mezclar ramas es pararme sobre la rama que quiero mezclar.
-Para mezclar los cambios deberíamos usar el comando git merge. Las instrucciones sería pararnos desde la rama que queremos mezclar y hacer un git merge con la rama que pretendemos usar.
